@@ -1,0 +1,10 @@
+diff a/Style.css b/Style.css	(rejected hunks)
+@@ -6,7 +6,7 @@
+ 
+ 
+ .nav { 
+-    background-color:#74eaff; 
++    background-color:#2d54ff; 
+ 
+ }
+ 
